@@ -1,0 +1,33 @@
+{
+  "name": "amjuu",
+  "version": "1.0.0",
+  "description": "WhatsApp Music Bot with Commands",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "music",
+    "songs",
+    "baileys"
+  ],
+  "author": "Amju",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "pino": "^8.14.1",
+    "pino-pretty": "^10.2.0",
+    "yt-dlp": "^1.0.0",
+    "youtube-search-without-api-key": "^1.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
