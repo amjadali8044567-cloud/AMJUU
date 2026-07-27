@@ -23,7 +23,7 @@
     "dotenv": "^16.3.1",
     "fluent-ffmpeg": "^2.1.2",
     "pino": "^8.14.1",
-    "pino-pretty": "^10.2.0",
+    
     "yt-dlp": "^1.0.0",
     "youtube-search-without-api-key": "^1.2.6"
   },
