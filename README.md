@@ -210,7 +210,7 @@ For issues and questions:
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/amjadali8044567-cloud/amjuu)
-- [WhatsApp](https://wa.me/03022718068)
+- [WhatsApp](https://wa.me/03022718058)
 
 ---
 
